@@ -1,0 +1,2 @@
+model_checkpoint_path: "charmodel.ckpt"
+all_model_checkpoint_paths: "charmodel.ckpt"

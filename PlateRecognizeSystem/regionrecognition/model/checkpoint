@@ -1,0 +1,2 @@
+model_checkpoint_path: "regionmodel.ckpt"
+all_model_checkpoint_paths: "regionmodel.ckpt"
